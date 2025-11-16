@@ -25,9 +25,11 @@
 
 ---
 
-### 🐍 Snake Fun
+### 🐍 Commit Snake
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Animation" height="150"/>
+  <img src="https://github.com/yourgithub.png?size=300" alt="GitHub Snake" style="border-radius:50%;"/>
+  <br>
+  <sub>Make a “snake” on your GitHub contributions to look awesome 😎</sub>
 </div>
 
 ---
@@ -54,6 +56,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=dark" alt="Streak Stats"/>
 </div>
 
 ---
