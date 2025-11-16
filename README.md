@@ -25,6 +25,13 @@
 
 ---
 
+### 🐍 Snake Fun
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Animation" height="150"/>
+</div>
+
+---
+
 ### 📫 Connect with Me
 <div align="center">
   <a href="https://www.instagram.com/hamzaxtop" target="_blank">
